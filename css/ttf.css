@@ -1,0 +1,12 @@
+/*声明*/
+@font-face{
+    font-family: 'Xmltttf';
+    src: url('https://cdn.jsdelivr.net/gh/taoggt/jscss/xmlt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*引用*/
+.cool-text{
+    font-family: 'Xmltttf';
+}
